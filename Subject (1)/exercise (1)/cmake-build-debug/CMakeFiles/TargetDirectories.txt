@@ -1,3 +1,0 @@
-/root/Desktop/empty_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/root/Desktop/empty_project/cmake-build-debug/CMakeFiles/edit_cache.dir
-/root/Desktop/empty_project/cmake-build-debug/CMakeFiles/empty_project.dir
